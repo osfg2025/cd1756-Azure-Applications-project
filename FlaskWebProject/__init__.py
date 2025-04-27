@@ -27,4 +27,4 @@ login.login_view = 'login'
 
 import FlaskWebProject.views
 
-##import FlaskWebProject.views
+import FlaskWebProject.views
