@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'cmsudacitywebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FCF1466628543B0BC4137F4F4E02728 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9364B9EB1D4413AA858779278CFD9C5 }}
